@@ -13,6 +13,8 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var check_resume = this.props.resumeBasicInfo.check_resume;
+      var resume_link = this.props.resumeBasicInfo.resume_link;
     }
 
     return (
@@ -84,7 +86,7 @@ class About extends Component {
                   </div>
                 </div>
                 <br/>
-                <span className="wave"><a href="/cv.pdf">Check out my Resume!</a></span>
+                <span className="resume"><a href={resume_link} download="CV_paulmillanes.pdf">{check_resume}</a></span>
               </div>
             </div>
           </div>

@@ -1,5 +1,7 @@
 {
     "basic_info": {
+      "check_resume": "Check my Resume!",
+      "resume_link": "resume/CV_paulmillanes_eng.pdf",
       "description_header": "Hi",
       "description": "I'm Paul Millanes. I am a software developer with experience in multiple technologies. I want to use my skills for the benefit of my community and I am eager to learn. My interest lies in web and mobile development.",
       "section_name": {
@@ -14,8 +16,7 @@
         "title": "Integral Management System",
         "description": "I contributed in developing an application to manage and promote sports in the state of Sonora. \nDeveloped the front-end using React and the back-end using PHP with REST API  and axios. \nUsed MySQL for the database management. \nGathered requirements and managed the project development with tools such as Slack and Github.",
         "images": [
-          "images/portfolio/int_mang_sys/p1.jpg",
-          "images/portfolio/int_mang_sys/p2.jpg"
+          "images/portfolio/int_mang_sys/p1.png"
         ],
         "url": "",
         "technologies": [
@@ -83,8 +84,7 @@
         "title": "Cost and Inventory Report System",
         "description": "I developed a project to calculate the costs of integral kitchens and send PDF and XLSX inventory reports through email. I used C# Windows Presentation Foundation with the MVVM design pattern and hosted a PostgreSQL database using Clevercloud PaaS. Gathered and documented requirements through user stories and UML diagrams.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/cost_inv_sys/p1.png"
         ],
         "url": "",
         "technologies": [

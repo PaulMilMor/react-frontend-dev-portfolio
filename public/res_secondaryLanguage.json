@@ -1,68 +1,47 @@
 {
     "basic_info": {
+      "check_resume": "Checa mi curriculum!",
+      "resume_link": "resume/CV_paulmillanes_esp.pdf",
       "description_header": "Hola",
       "description": "Soy Paul Millanes. Soy desarrollador de software con experiencia en multiples tecnologías. Quiero usar mis habilidades para beneficiar a mi comunidad y estoy ansioso por aprender. Mi interés radica en desarrollo web y móvil.",
       "section_name": {
         "about": "Sobre mí",
         "projects": "Proyectos",
-        "skills": "Habilidades",
+        "skills": "Conocimientos",
         "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Sistema de Gestión Integral",
+        "description": "Contribuí en el desarrollo de una aplicación para gestionar y promover deportes en Sonora. Desarrollé el front-end usando React y el back-end usando PHP con REST API y axios. Utilicé MySQL para la gestióno de base de datos. Recopilé requerimientos y administré el proyecto con herramientas como Slack y Github.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/int_mang_sys/p1.png"
         ],
         "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "TusAsesorías",
+        "description": "Desarrollé una app web para conectar estudiantes e instructores con un equipo autogestionado de 4 ingenieros utilizando metodologías Ágiles. Utilizamos Angular para el front-end y Node.js con Firebase para el back-end, utilizando Zoom API y Paypal API, así como el patrón de diseño MVC. Implementación utilizando la base de datos NoSQL Firestore de Firebase. Recopilé y documenté requerimientos a través de historias de usuario y diagramas UML.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/tusasesorias/p1.png",
+          "images/portfolio/tusasesorias/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://tusasesorias.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -73,9 +52,52 @@
             "name": "TypeScript"
           },
           {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "PetAuxilium",
+        "description": "Desarrollé una aplicación móvil para ayudar mascotas y animales callejeros, con un equipo autogestionado de 4 ingenieros usando metodologías Ágiles. Utilizamos Flutter de Google para el front-end y Firebase para el back-end, utilizando Google Maps API, Stripe API y el patrón de diseño BLoC. Implementación utilizando la base de datos NoSQL Firestore de Firebase. Recopilé y documenté requerimientos a través de historias de usuario y diagramas UML",
+        "images": [
+          "images/portfolio/petauxilium/p1.png",
+          "images/portfolio/petauxilium/p2.png"
+        ],
+        "url": "https://petauxilium.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Sistema de Costos y Reportes de Inventarios",
+        "description": "Desarrollé un proyecto para calcular el costo de cocinas integrales y enviar reportes de inventarios en formato PDF y XLSX a través de email. Utilicé C# Windows Presentation Foundation con el patrón de diseño MVVM y alojé una base de datos PostgreSQL utilizando Clevercloud PaaS. Recopilé y documenté requerimientos a través de historias de usuario y diagramas UML.",
+        "images": [
+          "images/portfolio/cost_inv_sys/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          
+          {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
+
         ]
       }
     ],
