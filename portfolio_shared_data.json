@@ -1,17 +1,27 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Paul Millanes",
+      "titles": [ "Front-end Developer", "Full-Stack Developer", "Mobile App Developer","Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/PaulMilMor",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/paul-millanes",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "dribble",
+          "url": "https://dribbble.com/paulmilmor",
+          "class": "fab fa-dribbble"
+        },
+        {
+          "name": "email",
+          "url": "mailto:paul_morimoto@hotmail.com",
+          "class": "fas fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
@@ -34,9 +44,9 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
         },
         {
           "name": "JavaScript",
@@ -44,16 +54,29 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },{
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
           "level": "85"
         },
         {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "75"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-androidstudio-plain",
+          "level": "75"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "65"
+        },{
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "65"
@@ -61,6 +84,16 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
           "level": "60"
         }
       ]
