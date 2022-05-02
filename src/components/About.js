@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import vueIcon from "@iconify/icons-logos/flutter";
 
 class About extends Component {
   render() {
@@ -83,6 +83,8 @@ class About extends Component {
                     {about}
                   </div>
                 </div>
+                <br/>
+                <span className="wave"><a href="/cv.pdf">Check out my Resume!</a></span>
               </div>
             </div>
           </div>
