@@ -14,7 +14,7 @@
     "projects": [
       {
         "title": "Sistema de Gestión Integral",
-        "description": "Contribuí en el desarrollo de una aplicación para gestionar y promover deportes en Sonora. Desarrollé el front-end usando React y el back-end usando PHP con REST API y axios. Utilicé MySQL para la gestióno de base de datos. Recopilé requerimientos y administré el proyecto con herramientas como Slack y Github.",
+        "description": "Contribuí en el desarrollo de una aplicación para gestionar y promover deportes en Sonora. Desarrollé el front-end usando React y el back-end usando PHP con REST API y axios. Utilicé MySQL para la gestión de base de datos. Recopilé requerimientos y administré el proyecto con herramientas como Slack y Github.",
         "images": [
           "images/portfolio/int_mang_sys/p1.png"
         ],
